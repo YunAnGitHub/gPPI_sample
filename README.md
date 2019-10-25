@@ -8,3 +8,6 @@ There are 6 process:
 4) group analysis on group level
 5) generate gPPI matrix
 6) calculate graphical index
+
+
+feel free to mail me if you have any question hyapublic(a)gmail.com
