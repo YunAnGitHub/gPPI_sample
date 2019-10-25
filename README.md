@@ -10,4 +10,5 @@ There are 6 process:
 6) calculate graphical index
 
 
-feel free to mail me if you have any question hyapublic(a)gmail.com
+feel free to mail me if you have any questions!
+email address: hyapublic(a)gmail.com
